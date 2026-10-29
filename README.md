@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍🎓 Student Details
+##  Student Details
 
 * **Name:** Benny Bobbili
 * **Roll Number:** 26000861
@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 List of 10 Selected Case Studies
+##  List of 10 Selected Case Studies
 
 | S.No | Case Study No. | Title of the Case Study | Python Source File | Syllabus Concepts Used |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@
 
 ---
 
-## 📝 Overview of Selected Case Studies
+##  Overview of Selected Case Studies
 
 1. **Case Study #8 – Manufacturing Cost and Profitability Analysis:**  
    Calculates material costs, labour charges, wastage, machine costs, and selling prices, and determines whether production meets a specified profit target.
@@ -58,7 +58,7 @@
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * **`Consolidated_Report.pdf`**: Complete consolidated documentation containing the Problem Statement, Objectives, Assumptions, Algorithm, Flowchart, Pseudocode, Python Source Code, Test Cases, Output Screenshots, and Conclusion for all 10 case studies.
 * **10 Python Source Files (`.py`)**: Individual executable Python scripts written strictly using the prescribed syllabus topics.
@@ -66,7 +66,7 @@
 
 ---
 
-## ▶️ How to Run the Programs
+##  How to Run the Programs
 
 1. Ensure **Python 3.x** is installed on your system (or open in Pydroid 3 / VS Code / IDLE).
 2. Run any program from the terminal using:
